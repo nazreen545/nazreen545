@@ -13,7 +13,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Mohd Nazreen]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 <br />
 
@@ -54,6 +54,6 @@
 
 [youtube]: https://www.youtube.com/channel/nazreen545
 [instagram]: https://www.instagram.com/nzren545/
-[linkedin]: https://linkedin.com/in/Mohd Nazreen
+[linkedin]: https://linkedin.com/in/Mohd Nazreen/
 [portfolio]: https://nazreen545.github.io/profile/
 
