@@ -12,9 +12,8 @@
 - ⚡ Fun fact: I speak 3 languages ( English, Malay, Sabahan)
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br>
+<br />
 
 ### Languages and Tools:
 
