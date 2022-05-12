@@ -2,18 +2,18 @@
  <img align="right" alt="GIF" src="https://github.com/nazreen545/nazreen545/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a full time student, A Son, Developer, and Creator!!
+## I'm a full time student, Developer, and Creator!!
 - ✍ You can find my projects here [p]
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning VSC and PHP
+- 🌱 I’m currently doing my internship at a Government Sector
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, Malay, Sabahan)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Mohd Nazreen]
 
 <br />
 
@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazreen545" />
+<img align="left" alt="Nazreen's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazreen545" />
 
 </details>
 
