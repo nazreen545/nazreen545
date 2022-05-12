@@ -49,8 +49,6 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Nazreen's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazreen545" />
-
 </details>
 
 
