@@ -3,7 +3,7 @@
 
 
 ## I'm a full time student, Developer, and Creator!!
-- ✍ You can find my projects here [p]
+- ✍ You can find my projects here.
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently doing my internship at a Government Sector
 - 👯 I’m looking to collaborate on open source
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nazreen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nazreen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazreen545&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -51,9 +51,4 @@
 
 </details>
 
-
-[youtube]: https://www.youtube.com/channel/nazreen545
-[instagram]: https://www.instagram.com/nzren545/
-[linkedin]: https://linkedin.com/in/Mohd Nazreen/
-[portfolio]: https://nazreen545.github.io/profile/
 
