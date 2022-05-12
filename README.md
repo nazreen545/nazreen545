@@ -56,5 +56,4 @@
 [website]: https://
 [youtube]: https://www.youtube.com/channel/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/Mohd Nazreen
-[portfolio]: https://nazreen545.github.io/profile/
+
