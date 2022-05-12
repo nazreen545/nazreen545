@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nazreen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Nazreen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazreen545&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -53,8 +53,8 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
+[website]: https://
+[youtube]: https://www.youtube.com/channel/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/Mohd Nazreen
 [portfolio]: https://nazreen545.github.io/profile/
