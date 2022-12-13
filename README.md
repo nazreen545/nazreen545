@@ -5,11 +5,10 @@
 ## I'm a full time student, Developer, and Creator!!
 - ✍ You can find my projects here.
 - 🔭 I’m currently working on my first Project.
-- 🌱 I’m currently doing my internship at a Government Sector
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Malay, Sabahan)
+- ⚡ Fun fact: I speak 2 languages ( Englis and Malay)
 
 ### Talk with me, I am kinda awesome:
 ### Languages and Tools:
