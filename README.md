@@ -4,11 +4,11 @@
 
 ## I'm a full time student, Developer, and Creator!!
 - ✍ You can find my projects here.
-- 🔭 I’m currently working on my first Project.
+- 🔭 I’m currently looking forward to learn some interesting topic and language.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 2 languages ( Englis and Malay)
+- ⚡ I speak 2 languages ( Englis and Malay)
 
 ### Talk with me, I am kinda awesome:
 ### Languages and Tools:
