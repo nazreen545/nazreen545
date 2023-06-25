@@ -6,10 +6,7 @@
 - ✍ You can find my projects here.
 - 🔭 I’m currently looking forward to learn some interesting topic and language.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about anything
 - 😄 Pronouns: He/Him
-- ⚡ I speak 2 languages ( Englis and Malay)
-
 ### Talk with me, I am kinda awesome:
 ### Languages and Tools:
 
